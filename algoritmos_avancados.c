@@ -1,11 +1,13 @@
 #include <stdio.h>
+#include <string.h>
 
 // Desafio Detective Quest
 // Tema 4 - Árvores e Tabela Hash
 // Este código inicial serve como base para o desenvolvimento das estruturas de navegação, pistas e suspeitos.
 // Use as instruções de cada região para desenvolver o sistema completo com árvore binária, árvore de busca e tabela hash.
 
-int main() {
+int main(){
+    printf ("DESAFIO ARVORE");
 
     // 🌱 Nível Novato: Mapa da Mansão com Árvore Binária
     //
